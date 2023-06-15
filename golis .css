@@ -1,0 +1,55 @@
+.l{
+    background-color: rgb(87, 129, 255);
+}
+ 
+.nav-link{
+    transition: all 0.2s;
+    cursor: pointer;
+}
+
+
+.nav-link:hover{
+    text-decoration: underline;
+    border-bottom: 2px solid;
+    
+}
+.card img{
+max-width: 100%;
+ margin-left: 5px;
+ margin-top: 3px;
+ size: 5rem;
+ 
+ 
+} 
+.card:hover {
+    border-color: rgb(92, 156, 253);
+    box-shadow: 0 0 10px 2px  rgb(13, 110, 253, .6);
+}
+.card{
+    transition: all .5s;
+} 
+
+.footer{
+background:#09427b;
+padding: 2rem 2rem 0px 2rem;
+ 
+}
+
+#c{
+position: absolute;
+margin-bottom: 4px;
+color: red;
+left: 3px;
+font-size: small;
+align-items: end;
+}
+
+.ff{
+    background-color:#09427b;
+   
+ 
+}
+.ff {
+    
+
+}
